@@ -1,3 +1,5 @@
+> **Archived November 2026.** This tutorial dates from 2023 and is no longer maintained. It targets Ubuntu 20.04 and installs Podman from a third-party repository, while Podman's docs now list Ubuntu's official packages, and its KIND and Kubernetes versions are out of date. For current instructions, see the [KIND quick start](https://kind.sigs.k8s.io/docs/user/quick-start/), [KIND's rootless guide](https://kind.sigs.k8s.io/docs/user/rootless/), and [Podman's installation docs](https://podman.io/docs/installation).
+
 # Deploying a Kubernetes In Docker (KIND) Cluster Using Podman on Ubuntu Linux
 
 ***Tom Dean - 3/9/23***
